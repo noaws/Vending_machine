@@ -1,0 +1,13 @@
+z1308416902_2331169774_0.htm = work.vending_machine_m
+z3065813709_1729205993_0.htm = /vending_machine_tb/vm1
+z1906218658_1456053264_0.htm = work.vending_machine_tb
+z3398210202_0166042876_0.htm = /vending_machine_tb
+testlist.html = NON_SCOPE
+globattrlist.html = NON_SCOPE
+__head.htm = NON_SCOPE
+__frametop.htm = NON_SCOPE
+__menu.htm = NON_SCOPE
+legacy.html = NON_SCOPE
+index.html = NON_SCOPE
+covsummary.html = NON_SCOPE
+blank.htm = NON_SCOPE

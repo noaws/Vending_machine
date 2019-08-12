@@ -1,0 +1,90 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/projects/verilog_hds/vending_machine
+T_opt
+!s110 1536060724
+V9>SFPZDNQEj9LSe:GBh3f2
+Z1 04 18 4 work vending_machine_tb fast 0
+=5-9cebe8216662-5b8e6d33-2ac-2ec8
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+Z2 OL;O;10.4;61
+R0
+T_opt1
+!s110 1536061208
+Vc8zGgiiPYY94RB`2C@PgQ2
+R1
+=1-9cebe8216662-5b8e6f18-299-1508
+o-quiet -auto_acc_if_foreign -work work
+n@_opt1
+R2
+vd_flip_flop
+!s110 1535978897
+!i10b 1
+!s100 Db3Y7con`WK]z[Ce4GEN82
+IcFecFd`HBO3:_;S3h0bfa1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 dD:/Projects/Verilog_hds/vending_machine
+w1535978383
+8D:/Projects/Verilog_hds/vending_machine/d_flip_flop.v
+FD:/Projects/Verilog_hds/vending_machine/d_flip_flop.v
+L0 1
+Z5 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1535978897.710000
+!s107 D:/Projects/Verilog_hds/vending_machine/d_flip_flop.v|
+!s90 -##implicit##push_minusfile_path##|D:/Projects/Verilog_hds/vending_machine/vlog.opt|-##implicit##pop_minusfile_path##|-reportprogress|300|-work|work|-L|mtiAvm|-L|mtiRnm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|-L|infact|D:/Projects/Verilog_hds/vending_machine/d_flip_flop.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z7 tCoverage 63 CoverExcludeDefault 1 CoverFEC 0 CoverShortCircuit 0
+vvending_machine_m
+Z8 !s110 1536061200
+!i10b 1
+!s100 9K7SoP`QdBaoOEKLboH_42
+IR_DldZ7NZHbSAXH:FMIMK3
+R3
+R4
+w1536061069
+8D:/Projects/Verilog_hds/vending_machine/vending_machine_m.v
+FD:/Projects/Verilog_hds/vending_machine/vending_machine_m.v
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1536061200.055000
+!s107 D:/Projects/Verilog_hds/vending_machine/vending_machine_m.v|
+!s90 -##implicit##push_minusfile_path##|D:/Projects/Verilog_hds/vending_machine/vlog.opt|-##implicit##pop_minusfile_path##|-reportprogress|300|-work|work|D:/Projects/Verilog_hds/vending_machine/vending_machine_m.v|
+!i113 0
+R6
+R7
+vvending_machine_tb
+R8
+!i10b 1
+!s100 lA<57^?_ZFJQP0SZ5EX=k0
+Ih_Q4T:D6A`e_@>`mnfGkb1
+R3
+R4
+w1536061148
+8D:/Projects/Verilog_hds/vending_machine/vending_machine_tb.v
+FD:/Projects/Verilog_hds/vending_machine/vending_machine_tb.v
+L0 5
+R5
+r1
+!s85 0
+31
+!s108 1536061200.177000
+!s107 D:/Projects/Verilog_hds/vending_machine/vending_machine_tb.v|
+!s90 -##implicit##push_minusfile_path##|D:/Projects/Verilog_hds/vending_machine/vlog.opt|-##implicit##pop_minusfile_path##|-reportprogress|300|-work|work|D:/Projects/Verilog_hds/vending_machine/vending_machine_tb.v|
+!i113 0
+R6
+R7
