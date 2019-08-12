@@ -1,0 +1,22 @@
+Coverage Report Summary Data by file
+
+=================================================================================
+=== File: D:/Projects/Verilog_hds/vending_machine/vending_machine_m.v
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Stmts                           28        28         0     100.0
+    Branches                        14        14         0     100.0
+    Toggle Bins                     12        12         0     100.0
+
+=================================================================================
+=== File: D:/Projects/Verilog_hds/vending_machine/vending_machine_tb.v
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Stmts                           29        29         0     100.0
+    Toggle Bins                     10        10         0     100.0
+
+
+Total Coverage By File (code coverage only, filtered view): 100.0%
+
